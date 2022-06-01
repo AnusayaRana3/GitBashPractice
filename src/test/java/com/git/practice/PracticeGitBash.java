@@ -8,6 +8,7 @@ public class PracticeGitBash {
 	public void Practice()
 	{
 		System.out.println("practice message");
+		System.out.println("PracticeGitBash updated");
 	}
 
 }
