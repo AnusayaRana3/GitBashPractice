@@ -8,10 +8,12 @@ public class PracticeGitBash {
 	public void Practice()
 	{
 		System.out.println("practice message");
+//third changes
 
-
-	//changes
- 
+		//changes done-------1
+		//kkkjjj
+	//github changes done
+ //jkiiuuu
 		System.out.println("PracticeGitBash updated");
 	}
 
